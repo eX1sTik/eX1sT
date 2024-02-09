@@ -1,0 +1,12 @@
+body {
+  margin: 0 auto;
+   
+}
+
+#bar-chart {
+ 
+}
+
+ .bar:hover {
+    fill: brown;
+  }
